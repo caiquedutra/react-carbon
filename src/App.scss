@@ -1,0 +1,61 @@
+@import 'carbon-components/scss/globals/scss/styles.scss';
+
+
+
+
+.main-button__main {
+  position: absolute;
+  top: 67%;
+  left: 30%;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  
+}
+h4{
+  margin-bottom: 4%;
+}
+.main-button__flex{
+  margin: 3.5% 0;
+}
+
+label{
+  font-size: 1.0rem;
+}
+.main-button__checkbox {
+  padding-top: 6px;
+}
+ h3{
+  position: relative;
+  bottom: 10px;
+}
+
+.dashed_hr{
+  margin-top: 2%;
+  border: 1px dashed black;
+  padding: 3.5%;
+
+}
+input[type="file"]{
+  display: none;
+}
+.dashed_hr label{
+  background-color: #333;
+  color: #FFF;
+  width: 200px;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  cursor: pointer;
+
+}
+.main-button{
+  padding: 20px;
+} 
+h3{
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 0.9%;
+}
